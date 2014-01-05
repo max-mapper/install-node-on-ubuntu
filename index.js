@@ -1,2 +1,3 @@
 var fs = require('fs')
-module.exports = fs.readFileSync('install.sh').toString()
+var path = require('path')
+module.exports = fs.readFileSync(path.join(__dirname, 'install.sh')).toString()

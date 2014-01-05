@@ -1,6 +1,6 @@
 {
   "name": "install-node-on-ubuntu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "perferGlobal": "true",
   "description": "generates bash script that installs node from the chrislea ppa on ubuntu and executes it over ssh",
   "main": "index.js",
