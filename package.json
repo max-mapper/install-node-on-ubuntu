@@ -1,0 +1,20 @@
+{
+  "name": "install-node-on-ubuntu",
+  "version": "0.0.1",
+  "perferGlobal": "true",
+  "description": "generates bash script that installs node from the chrislea ppa on ubuntu and executes it over ssh",
+  "main": "index.js",
+  "bin": {
+    "install-node-on-ubuntu": "install.js"
+  },
+  "author": "max ogden",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxogden/install-node-on-ubuntu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/install-node-on-ubuntu/issues"
+  },
+  "homepage": "https://github.com/maxogden/install-node-on-ubuntu"
+}
