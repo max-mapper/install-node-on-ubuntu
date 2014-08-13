@@ -1,4 +1,2 @@
-sudo apt-get install -y software-properties-common
-sudo add-apt-repository -y ppa:chris-lea/node.js
-sudo apt-get update
+curl https://deb.nodesource.com/setup | sudo bash -
 sudo apt-get install -y nodejs
