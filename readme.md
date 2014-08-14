@@ -4,7 +4,7 @@
 
 Installs Node.js on Ubuntu over SSH
 
-Uses the [Chris Lea PPA](https://launchpad.net/~chris-lea/+archive/node.js)
+Uses the [NodeSource repository](https://github.com/nodesource/distributions)
 
 Tested w/ Ubuntu 13.04 x64, should work with other modern Ubuntus
 
